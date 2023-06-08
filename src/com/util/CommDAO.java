@@ -70,7 +70,7 @@ public class CommDAO
 		           
 	        	  Class.forName("com.mysql.jdbc.Driver");
 	            String dburl = (String)config.get("dburl");
-	            conn = DriverManager.getConnection("jdbc:mysql://localhost:3306/graduation_onlineshopssm?characterEncoding=utf-8","root","123456");
+	            conn = DriverManager.getConnection("jdbc:mysql://localhost:3306/graduation_182_onlineshopssm?characterEncoding=utf-8","root","123456");
 	         }
 	        	
 	        }

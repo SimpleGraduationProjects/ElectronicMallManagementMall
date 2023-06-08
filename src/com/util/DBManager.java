@@ -5,7 +5,7 @@ import java.sql.*;
 public class DBManager {
 	static String driver = "com.mysql.jdbc.Driver";
 
-	static String url = "jdbc:mysql://localhost:3306/graduationn_onlineshopssm_db?characterEncoding=utf-8";
+	static String url = "jdbc:mysql://localhost:3306/graduationn_182_onlineshopssm_db?characterEncoding=utf-8";
 
 	static String user = "root";
 
